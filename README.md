@@ -1,7 +1,9 @@
 ## Hi there 👋
+My name is Kajus, and i am an aspiring computer scientist intrested in all thing computer related!
+
 - 🔭 I’m currently studying computer science at UA92
 - 👯 I’m looking to gain more experience
-- 📫 How to reach me: Email me at kajusgaj@gmail.com or connect with me on LinkedIn (www.linkedin.com/in/kajus-gajauskas-985275293)
+- 📫 How to reach me: Email me at kajusgaj@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/kajus-gajauskas-985275293)
 <!--
 **Ninflex/ninflex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
